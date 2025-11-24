@@ -1,0 +1,89 @@
+version: 2
+
+models:
+  - name: silver_interior
+    description: "{{ doc('silver_interior_table') }}"
+    config:
+      contract:
+        enforced: true
+
+    columns:
+      - name: model_key
+        description: "{{ doc('model_key') }}"
+        data_type: varchar
+
+      - name: model_name
+        description: "{{ doc('model_name') }}"
+        data_type: varchar
+
+      - name: second_row_three_seat_bench
+        description: "{{ doc('second_row_three_seat_bench') }}"
+        data_type: boolean
+
+      - name: three_zone_climate_control
+        description: "{{ doc('three_zone_climate_control') }}"
+        data_type: boolean
+
+      - name: rear_seat_belts_3x3_point
+        description: "{{ doc('rear_seat_belts_3x3_point') }}"
+        data_type: boolean
+
+      - name: air_conditioning
+        description: "{{ doc('air_conditioning') }}"
+        data_type: boolean
+
+      - name: alloy_pedals
+        description: "{{ doc('alloy_pedals') }}"
+        data_type: boolean
+
+      - name: front_head_restraints
+        description: "{{ doc('front_head_restraints') }}"
+        data_type: boolean
+
+      - name: heat_pump
+        description: "{{ doc('heat_pump') }}"
+        data_type: boolean
+
+      - name: isofix_child_anchor_points
+        description: "{{ doc('isofix_child_anchor_points') }}"
+        data_type: boolean
+
+      - name: single_front_passenger_seat
+        description: "{{ doc('single_front_passenger_seat') }}"
+        data_type: boolean
+
+      - name: split_folding_rear_seat
+        description: "{{ doc('split_folding_rear_seat') }}"
+        data_type: boolean
+
+      - name: steering_wheel_manually_adjustable
+        description: "{{ doc('steering_wheel_manually_adjustable') }}"
+        data_type: boolean
+
+      - name: textile_floor_mats
+        description: "{{ doc('textile_floor_mats') }}"
+        data_type: boolean
+
+      - name: electrically_adjustable_drivers_seat
+        description: "{{ doc('electrically_adjustable_drivers_seat') }}"
+        data_type: boolean
+
+      - name: heated_rear_seats
+        description: "{{ doc('heated_rear_seats') }}"
+        data_type: boolean
+
+      - name: ventilated_front_seats
+        description: "{{ doc('ventilated_front_seats') }}"
+        data_type: boolean
+
+      - name: heated_front_seat
+        description: "{{ doc('heated_front_seat') }}"
+        data_type: boolean
+
+      - name: leather_artificial_leather_upholstery
+        description: "{{ doc('leather_artificial_leather_upholstery') }}"
+        data_type: boolean
+
+      - name: scrape_timestamp
+        description: "{{ doc('scrape_timestamp') }}"
+        data_type: timestamp

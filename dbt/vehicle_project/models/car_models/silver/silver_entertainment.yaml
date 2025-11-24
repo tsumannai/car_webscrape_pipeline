@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: silver_entertainment
+    description: "{{ doc('silver_entertainment_table') }}"
+    config:
+      contract:
+        enforced: true
+
+    columns:
+      - name: model_key
+        description: "{{ doc('model_key') }}"
+        data_type: varchar
+
+      - name: model_name
+        description: "{{ doc('model_name') }}"
+        data_type: varchar
+
+      - name: third_party_sound_system
+        description: "{{ doc('third_party_sound_system') }}"
+        data_type: boolean
+
+      - name: digital_radio
+        description: "{{ doc('digital_radio') }}"
+        data_type: boolean
+
+      - name: radio
+        description: "{{ doc('radio') }}"
+        data_type: boolean
+
+      - name: oem_sound_system
+        description: "{{ doc('oem_sound_system') }}"
+        data_type: boolean
+
+      - name: scrape_timestamp
+        description: "{{ doc('scrape_timestamp') }}"
+        data_type: timestamp

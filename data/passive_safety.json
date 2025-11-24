@@ -1,0 +1,42 @@
+[
+  {
+    "model_key": "audi_e_tron_gt_saloon_electric",
+    "model_name": "Audi e-tron GT Saloon Electric",
+    "drivers_airbag": true,
+    "front_side_airbags": true,
+    "manual_child_proof_locks": true,
+    "passenger_airbag_deactivation": true,
+    "tyre_pressure_monitor": true,
+    "scrape_timestamp": "2025-11-24T13:32:07Z"
+  },
+  {
+    "model_key": "audi_e_tron_gt_saloon_electric",
+    "model_name": "Audi e-tron GT Saloon Electric",
+    "drivers_airbag": true,
+    "front_side_airbags": true,
+    "manual_child_proof_locks": true,
+    "passenger_airbag_deactivation": true,
+    "tyre_pressure_monitor": true,
+    "scrape_timestamp": "2025-11-24T13:32:27Z"
+  },
+  {
+    "model_key": "audi_e_tron_gt_saloon_electric",
+    "model_name": "Audi e-tron GT Saloon Electric",
+    "drivers_airbag": true,
+    "front_side_airbags": true,
+    "manual_child_proof_locks": true,
+    "passenger_airbag_deactivation": true,
+    "tyre_pressure_monitor": true,
+    "scrape_timestamp": "2025-11-24T13:34:55Z"
+  },
+  {
+    "model_key": "audi_e_tron_gt_saloon_electric",
+    "model_name": "Audi e-tron GT Saloon Electric",
+    "drivers_airbag": true,
+    "front_side_airbags": true,
+    "manual_child_proof_locks": true,
+    "passenger_airbag_deactivation": true,
+    "tyre_pressure_monitor": true,
+    "scrape_timestamp": "2025-11-24T13:35:53Z"
+  }
+]

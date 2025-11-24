@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: vehicle_features
+    description: "{{ doc('gold_vehicle_features_table') }}"
+    config:
+      contract:
+        enforced: true
+
+    columns:
+      - name: model_key
+        description: "{{ doc('model_key') }}"
+        data_type: varchar
+
+      - name: model_name
+        description: "{{ doc('model_name') }}"
+        data_type: varchar
+
+      - name: manufacturer
+        description: "{{ doc('brand') }}"
+        data_type: varchar
+
+      - name: range
+        description: "{{ doc('pure_electric_range_miles') }}"
+        data_type: double
+
+      - name: feature_name
+        description:  "{{ doc('feature_name') }}"
+        data_type: varchar
+
+      - name: feature_value
+        description: "{{ doc('feature_value') }}"
+        data_type: boolean

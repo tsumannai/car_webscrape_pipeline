@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: silver_summary
+    description: "{{ doc('silver_summary_table') }}"
+    config:
+      contract:
+        enforced: true
+
+    columns:
+      - name: model_key
+        description: "{{ doc('model_key') }}"
+        data_type: varchar
+
+      - name: model_name
+        description: "{{ doc('model_name') }}"
+        data_type: varchar
+
+      - name: brand
+        description: "{{ doc('brand') }}"
+        data_type: varchar
+
+      - name: insurance_group
+        description: "{{ doc('insurance_group') }}"
+        data_type: varchar
+
+      - name: boot_space_seats_up_litres
+        description: "{{ doc('boot_space_seats_up_litres') }}"
+        data_type: double
+
+      - name: acceleration_0_62_secs
+        description: "{{ doc('acceleration_0_62_secs') }}"
+        data_type: double
+
+      - name: pure_electric_range_miles
+        description: "{{ doc('pure_electric_range_miles') }}"
+        data_type: double
+
+      - name: home_charge_time
+        description: "{{ doc('home_charge_time') }}"
+        data_type: integer
+
+      - name: rapid_charge_320kw_time_mins
+        description: "{{ doc('rapid_charge_320kw_time_mins') }}"
+        data_type: integer
+
+      - name: scrape_timestamp
+        description: "{{ doc('scrape_timestamp') }}"
+        data_type: timestamp
