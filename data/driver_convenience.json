@@ -16,7 +16,7 @@
     "traffic_sign_recognition": true,
     "wireless_mobile_phone_charging": true,
     "night_vision_system": false,
-    "scrape_timestamp": "2025-11-24T13:32:03Z"
+    "scrape_timestamp": "2025-11-24T23:20:23Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -35,7 +35,7 @@
     "traffic_sign_recognition": true,
     "wireless_mobile_phone_charging": true,
     "night_vision_system": false,
-    "scrape_timestamp": "2025-11-24T13:32:24Z"
+    "scrape_timestamp": "2025-11-24T23:20:44Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -54,7 +54,7 @@
     "traffic_sign_recognition": true,
     "wireless_mobile_phone_charging": true,
     "night_vision_system": false,
-    "scrape_timestamp": "2025-11-24T13:34:52Z"
+    "scrape_timestamp": "2025-11-24T23:21:14Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -73,6 +73,6 @@
     "traffic_sign_recognition": true,
     "wireless_mobile_phone_charging": true,
     "night_vision_system": false,
-    "scrape_timestamp": "2025-11-24T13:35:49Z"
+    "scrape_timestamp": "2025-11-24T23:21:53Z"
   }
 ]

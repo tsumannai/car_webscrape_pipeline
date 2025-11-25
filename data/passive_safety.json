@@ -7,7 +7,7 @@
     "manual_child_proof_locks": true,
     "passenger_airbag_deactivation": true,
     "tyre_pressure_monitor": true,
-    "scrape_timestamp": "2025-11-24T13:32:07Z"
+    "scrape_timestamp": "2025-11-24T23:20:26Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -17,7 +17,7 @@
     "manual_child_proof_locks": true,
     "passenger_airbag_deactivation": true,
     "tyre_pressure_monitor": true,
-    "scrape_timestamp": "2025-11-24T13:32:27Z"
+    "scrape_timestamp": "2025-11-24T23:20:47Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -27,7 +27,7 @@
     "manual_child_proof_locks": true,
     "passenger_airbag_deactivation": true,
     "tyre_pressure_monitor": true,
-    "scrape_timestamp": "2025-11-24T13:34:55Z"
+    "scrape_timestamp": "2025-11-24T23:21:18Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -37,6 +37,6 @@
     "manual_child_proof_locks": true,
     "passenger_airbag_deactivation": true,
     "tyre_pressure_monitor": true,
-    "scrape_timestamp": "2025-11-24T13:35:53Z"
+    "scrape_timestamp": "2025-11-24T23:21:57Z"
   }
 ]

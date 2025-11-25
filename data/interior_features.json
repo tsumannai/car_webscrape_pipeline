@@ -19,7 +19,7 @@
     "ventilated_front_seats": false,
     "heated_front_seat": true,
     "leather_artificial_leather_upholstery": true,
-    "scrape_timestamp": "2025-11-24T13:32:01Z"
+    "scrape_timestamp": "2025-11-24T23:20:20Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -41,7 +41,7 @@
     "ventilated_front_seats": false,
     "heated_front_seat": true,
     "leather_artificial_leather_upholstery": true,
-    "scrape_timestamp": "2025-11-24T13:32:21Z"
+    "scrape_timestamp": "2025-11-24T23:20:41Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -63,7 +63,7 @@
     "ventilated_front_seats": false,
     "heated_front_seat": true,
     "leather_artificial_leather_upholstery": true,
-    "scrape_timestamp": "2025-11-24T13:34:49Z"
+    "scrape_timestamp": "2025-11-24T23:21:12Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -85,6 +85,6 @@
     "ventilated_front_seats": false,
     "heated_front_seat": true,
     "leather_artificial_leather_upholstery": true,
-    "scrape_timestamp": "2025-11-24T13:35:47Z"
+    "scrape_timestamp": "2025-11-24T23:21:51Z"
   }
 ]

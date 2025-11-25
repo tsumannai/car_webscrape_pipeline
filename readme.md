@@ -22,6 +22,7 @@ app/
 ├─ app.py                     # FastAPI entrypoint (defines /scrape)
 ├─ scraper/
 │  ├─ web_scrape.py          # run_scrape(url): main scraping pipeline
+│  ├─ schemas.py             # Expected Schemas for each section of the webscrape
 │  └─ modules/
 │     ├─ actions.py          # low-level Selenium interactions (get title, accept cookies, etc.)
 │     └─ parse.py            # functions that apply schemas, write JSON, etc.

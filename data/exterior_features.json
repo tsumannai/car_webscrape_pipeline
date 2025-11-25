@@ -16,7 +16,7 @@
     "windscreen_heating": true,
     "laser_headlights": false,
     "opening_panoramic_glass_roof": false,
-    "scrape_timestamp": "2025-11-24T13:32:06Z"
+    "scrape_timestamp": "2025-11-24T23:20:25Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -35,7 +35,7 @@
     "windscreen_heating": true,
     "laser_headlights": false,
     "opening_panoramic_glass_roof": false,
-    "scrape_timestamp": "2025-11-24T13:32:26Z"
+    "scrape_timestamp": "2025-11-24T23:20:46Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -54,7 +54,7 @@
     "windscreen_heating": true,
     "laser_headlights": false,
     "opening_panoramic_glass_roof": false,
-    "scrape_timestamp": "2025-11-24T13:34:54Z"
+    "scrape_timestamp": "2025-11-24T23:21:16Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -73,6 +73,6 @@
     "windscreen_heating": true,
     "laser_headlights": false,
     "opening_panoramic_glass_roof": false,
-    "scrape_timestamp": "2025-11-24T13:35:52Z"
+    "scrape_timestamp": "2025-11-24T23:21:56Z"
   }
 ]
