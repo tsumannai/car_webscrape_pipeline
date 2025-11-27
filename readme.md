@@ -124,6 +124,9 @@ Once scraped JSON is stored under data/, dbt processes them:
 - Produces a vehicle_features table, 
 - Achieved via UNPIVOT + UNION ALL
 
+
+![alt text](img/output_table.JPG)
+
 Run dbt models:
 
 `dbt build` or `dbt run --select car_models`
