@@ -15,8 +15,6 @@ The example model page used here is:
 
 ## 1. Project Structure
 
-A rough structure (your exact layout may differ slightly):
-
 ```text
 app/
 ├─ app.py                     # FastAPI entrypoint (defines /scrape)

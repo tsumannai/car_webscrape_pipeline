@@ -5,7 +5,7 @@
     "alarm": true,
     "keyless_go": true,
     "locking_wheel_nuts": true,
-    "scrape_timestamp": "2025-11-24T23:20:24Z"
+    "scrape_timestamp": "2025-11-27T15:29:38Z"
   },
   {
     "model_key": "audi_e_tron_gt_saloon_electric",
@@ -13,22 +13,6 @@
     "alarm": true,
     "keyless_go": true,
     "locking_wheel_nuts": true,
-    "scrape_timestamp": "2025-11-24T23:20:45Z"
-  },
-  {
-    "model_key": "audi_e_tron_gt_saloon_electric",
-    "model_name": "Audi e-tron GT Saloon Electric",
-    "alarm": true,
-    "keyless_go": true,
-    "locking_wheel_nuts": true,
-    "scrape_timestamp": "2025-11-24T23:21:15Z"
-  },
-  {
-    "model_key": "audi_e_tron_gt_saloon_electric",
-    "model_name": "Audi e-tron GT Saloon Electric",
-    "alarm": true,
-    "keyless_go": true,
-    "locking_wheel_nuts": true,
-    "scrape_timestamp": "2025-11-24T23:21:55Z"
+    "scrape_timestamp": "2025-11-27T15:30:43Z"
   }
 ]
